@@ -105,3 +105,91 @@
 [NotebookApp | INFO] Shutting down 2 kernels
 [NotebookApp | INFO] Kernel shutdown: 46936c6b-3719-4738-be8b-490c26af9d41
 [NotebookApp | INFO] Kernel shutdown: cc3a3ce8-2578-4770-b4d5-a0e8c02ec5a2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=9bf0180ce0c921d895081666cf793e9d9ad6c3d43d9cc3f3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-3832-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9bf0180ce0c921d895081666cf793e9d9ad6c3d43d9cc3f3
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 1fe81445-de1c-4fd5-9540-3fdc6a7e08dc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1fe81445-de1c-4fd5-9540-3fdc6a7e08dc
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=7f49f78fad35a735ef6940ccdffbaf462ece93865f06653b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-3120-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7f49f78fad35a735ef6940ccdffbaf462ece93865f06653b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b8d94abca144a287381c754a01e491c7323b298a44094fb3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-12003-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=b8d94abca144a287381c754a01e491c7323b298a44094fb3
+[NotebookApp | INFO] Kernel started: 2e9a29b2-21ea-4369-b7d2-7e294133c286
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2e9a29b2-21ea-4369-b7d2-7e294133c286
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | INFO] Starting buffering for 2e9a29b2-21ea-4369-b7d2-7e294133c286:db9fe7ece9cf4558837c6b0711393b5e
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2e9a29b2-21ea-4369-b7d2-7e294133c286
