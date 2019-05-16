@@ -193,3 +193,19 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 2e9a29b2-21ea-4369-b7d2-7e294133c286
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5fca10e8fefff9faffa06658c2d9cf7a6d66d0b872d0a234
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-15944-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5fca10e8fefff9faffa06658c2d9cf7a6d66d0b872d0a234
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 5fdc6829-19b8-4d33-98ea-1df6cd4fb744
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5fdc6829-19b8-4d33-98ea-1df6cd4fb744
+[NotebookApp | INFO] Saving file at /04-Object Oriented Programming.ipynb
