@@ -570,3 +570,9 @@
 [NotebookApp | INFO] Restoring connection for 1a60956c-edf8-420d-a9c9-e668f3159f2e:57767726ff194e4d9956a7fa630eb1b2
 [NotebookApp | INFO] Replaying 6 buffered messages
 [NotebookApp | INFO] Saving file at /06-Complex packages and testing.ipynb
+[NotebookApp | INFO] Starting buffering for 1a60956c-edf8-420d-a9c9-e668f3159f2e:57767726ff194e4d9956a7fa630eb1b2
+[NotebookApp | INFO] Kernel restarted: 1a60956c-edf8-420d-a9c9-e668f3159f2e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1a60956c-edf8-420d-a9c9-e668f3159f2e
+[NotebookApp | INFO] Restoring connection for 1a60956c-edf8-420d-a9c9-e668f3159f2e:57767726ff194e4d9956a7fa630eb1b2
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /06-Complex packages and testing.ipynb
