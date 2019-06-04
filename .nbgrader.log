@@ -576,3 +576,282 @@
 [NotebookApp | INFO] Restoring connection for 1a60956c-edf8-420d-a9c9-e668f3159f2e:57767726ff194e4d9956a7fa630eb1b2
 [NotebookApp | INFO] Replaying 6 buffered messages
 [NotebookApp | INFO] Saving file at /06-Complex packages and testing.ipynb
+[NotebookApp | INFO] Saving file at /06-Complex packages and testing.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e1332779c974635aca3a318da8929dc600954cdd506630f3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-7254-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e1332779c974635aca3a318da8929dc600954cdd506630f3
+[NotebookApp | INFO] Kernel started: 89704bb8-c71a-4ea4-bd88-8a6303ba7d7f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 89704bb8-c71a-4ea4-bd88-8a6303ba7d7f
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: ac0b7983-1a8e-4972-8b73-8107d4914024
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ac0b7983-1a8e-4972-8b73-8107d4914024
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Starting buffering for 89704bb8-c71a-4ea4-bd88-8a6303ba7d7f:438ba7d2eb604c61a362e87c57e398e8
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Starting buffering for ac0b7983-1a8e-4972-8b73-8107d4914024:53eacd55f0194374a4c21b3036d5755c
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 89704bb8-c71a-4ea4-bd88-8a6303ba7d7f
+[NotebookApp | INFO] Kernel shutdown: ac0b7983-1a8e-4972-8b73-8107d4914024
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=88155b0c2635a991c6600869c9a16325e2110f3abc7d1cf5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-30551-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=88155b0c2635a991c6600869c9a16325e2110f3abc7d1cf5
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: ece592de-4933-46ce-812b-7fb859c50fa9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ece592de-4933-46ce-812b-7fb859c50fa9
+[NotebookApp | INFO] Saving file at /08-.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Saving file at /08-Regular Expressions.ipynb
+[NotebookApp | INFO] Kernel started: e008673a-850f-4f6d-ae1c-c9de1794bbe6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e008673a-850f-4f6d-ae1c-c9de1794bbe6
+[NotebookApp | INFO] Starting buffering for e008673a-850f-4f6d-ae1c-c9de1794bbe6:e50d502dc58740c38aba36a5037a1e88
+[NotebookApp | INFO] 302 GET /?token=88155b0c2635a991c6600869c9a16325e2110f3abc7d1cf5 (127.0.0.1) 0.44ms
+[NotebookApp | INFO] Starting buffering for ece592de-4933-46ce-812b-7fb859c50fa9:907a54fe637c4b93a20abbf26f2a2eff
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: ece592de-4933-46ce-812b-7fb859c50fa9
+[NotebookApp | INFO] Kernel shutdown: e008673a-850f-4f6d-ae1c-c9de1794bbe6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=45b5de741602d5b7d41b33a9a721c73ba5dc9e51515e34f0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-7463-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=45b5de741602d5b7d41b33a9a721c73ba5dc9e51515e34f0
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Kernel started: 6e5fe464-3fec-429e-a357-07f017b61d6d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6e5fe464-3fec-429e-a357-07f017b61d6d
+[NotebookApp | INFO] Starting buffering for 6e5fe464-3fec-429e-a357-07f017b61d6d:0fa90161519641cf852823fba6ecfae7
+[NotebookApp | INFO] Kernel started: 56927a8b-2534-41c9-92a2-f0ba04a7c832
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 56927a8b-2534-41c9-92a2-f0ba04a7c832
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Starting buffering for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Kernel restarted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Restoring connection for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /07-Functional Programming.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Starting buffering for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Kernel restarted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Kernel restarted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Restoring connection for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | WARNING] Replacing stale connection: 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Starting buffering for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Restoring connection for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel interrupted: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Starting buffering for 48d16742-0f7e-4cc3-801b-83b449bfe316:3ccefbd0650f445d97c1198c4188308f
+[NotebookApp | INFO] Starting buffering for 56927a8b-2534-41c9-92a2-f0ba04a7c832:d33d33d66fa549a785662178613cb9eb
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 48d16742-0f7e-4cc3-801b-83b449bfe316
+[NotebookApp | INFO] Kernel shutdown: 6e5fe464-3fec-429e-a357-07f017b61d6d
+[NotebookApp | INFO] Kernel shutdown: 56927a8b-2534-41c9-92a2-f0ba04a7c832
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c7102d10f862921b222296ac59aa8a648e9ce5c391112cfc
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-14907-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c7102d10f862921b222296ac59aa8a648e9ce5c391112cfc
+[NotebookApp | INFO] Kernel started: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Kernel started: 56a00aa7-9f16-489d-aa08-0dc22919c564
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 56a00aa7-9f16-489d-aa08-0dc22919c564
+[NotebookApp | INFO] Kernel interrupted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Kernel interrupted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Kernel interrupted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Starting buffering for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Kernel restarted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Kernel restarted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Restoring connection for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Starting buffering for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Restoring connection for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Starting buffering for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Kernel restarted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Kernel restarted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Restoring connection for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Replaying 7 buffered messages
+[NotebookApp | INFO] Starting buffering for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Restoring connection for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | WARNING] Notebook 09-Parallel Computing.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Starting buffering for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Kernel restarted: c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c1e88f18-972d-44e0-9315-6bdf1fc3807a
+[NotebookApp | INFO] Restoring connection for c1e88f18-972d-44e0-9315-6bdf1fc3807a:f1033a27e72548cdbbb1af93708444f4
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | INFO] Saving file at /09-Parallel Computing.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 109234 ms.
