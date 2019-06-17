@@ -1145,3 +1145,36 @@
 [NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
 [NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
 [NotebookApp | INFO] Starting buffering for 1d19199d-7e46-4eb9-8a17-2beb3c89ab47:19b53befb8a3483a831d3d043d7049ea
+[NotebookApp | INFO] Starting buffering for bcdbfb61-304c-4ded-88d7-ce21f9373876:0d4bdd998e5b489484bd21db096692ca
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 1d19199d-7e46-4eb9-8a17-2beb3c89ab47
+[NotebookApp | INFO] Kernel shutdown: bcdbfb61-304c-4ded-88d7-ce21f9373876
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=70af6a43540dc6b2afe52de1c5208c24bbacffc9adf81e16
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1001/jupyter/nbserver-28844-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=70af6a43540dc6b2afe52de1c5208c24bbacffc9adf81e16
+[NotebookApp | INFO] Kernel started: b46bc69a-acae-4dd5-800c-5fb2534534ce
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b46bc69a-acae-4dd5-800c-5fb2534534ce
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Saving file at /10-Distributed Computing .ipynb
+[NotebookApp | INFO] Starting buffering for b46bc69a-acae-4dd5-800c-5fb2534534ce:31e21b7647dd4df9a1470d6d365fcd0c
+[NotebookApp | INFO] interrupted
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b46bc69a-acae-4dd5-800c-5fb2534534ce
