@@ -1178,3 +1178,168 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: b46bc69a-acae-4dd5-800c-5fb2534534ce
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a236d0532869480e3bc73fc167fd59542461b384efc1a452
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=a236d0532869480e3bc73fc167fd59542461b384efc1a452
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/felixneubuerger/.local/share/jupyter/runtime/nbserver-6944-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a236d0532869480e3bc73fc167fd59542461b384efc1a452
+     or http://127.0.0.1:8888/?token=a236d0532869480e3bc73fc167fd59542461b384efc1a452
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 103.79ms referer=http://localhost:8888/tree?token=a236d0532869480e3bc73fc167fd59542461b384efc1a452
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.22ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.15ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.15ms referer=http://localhost:8888/notebooks/Pivot%20Transfers%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.01ms referer=http://localhost:8888/notebooks/Pivot%20Transfers%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Pivot%20Transfers%20Table.ipynb?type=notebook&_=1568265184231 (127.0.0.1): No such file or directory: Pivot Transfers Table.ipynb
+[NotebookApp | WARNING] No such file or directory: Pivot Transfers Table.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Pivot%20Transfers%20Table.ipynb?type=notebook&_=1568265184231 (127.0.0.1) 31.42ms referer=http://localhost:8888/notebooks/Pivot%20Transfers%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.77ms referer=http://localhost:8888/notebooks/01-basic_python.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.40ms referer=http://localhost:8888/notebooks/01-basic_python.ipynb
+[NotebookApp | WARNING] Notebook 01-basic_python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 01066e83-8fc3-4ee8-8dca-9635c63b8380
+[NotebookApp | INFO] Saving file at /01-basic_python.ipynb
+[NotebookApp | INFO] Saving file at /01-basic_python.ipynb
+[NotebookApp | INFO] Starting buffering for 01066e83-8fc3-4ee8-8dca-9635c63b8380:95efe3e8ff154a288e0eae5ac519fcf3
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 01066e83-8fc3-4ee8-8dca-9635c63b8380
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e030c2ed049e3079ac757d6140c0e557f014f4f96641a30e
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=e030c2ed049e3079ac757d6140c0e557f014f4f96641a30e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/felixneubuerger/.local/share/jupyter/runtime/nbserver-17502-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e030c2ed049e3079ac757d6140c0e557f014f4f96641a30e
+     or http://127.0.0.1:8888/?token=e030c2ed049e3079ac757d6140c0e557f014f4f96641a30e
+[NotebookApp | INFO] Kernel started: 9b24b2e4-74a4-4708-9178-993202fc3eba
+[NotebookApp | WARNING] Notebook 03-scientific python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 02d7c46c-b56e-4cbf-a4aa-51e66fed2f6e
+[NotebookApp | INFO] Kernel started: 9a12c358-683f-46f0-8842-b3d0a80604b7
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 9ed1c655-7ea9-404a-8cfe-3edb9b8e91d8
+[NotebookApp | INFO] Saving file at /04-Object Oriented Programming.ipynb
+[NotebookApp | INFO] Saving file at /03-scientific python.ipynb
+[NotebookApp | WARNING] Notebook 03-scientific python.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /02-functions.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 9b24b2e4-74a4-4708-9178-993202fc3eba
+[NotebookApp | INFO] Kernel shutdown: 02d7c46c-b56e-4cbf-a4aa-51e66fed2f6e
+[NotebookApp | INFO] Kernel shutdown: 9a12c358-683f-46f0-8842-b3d0a80604b7
+[NotebookApp | INFO] Kernel shutdown: 9ed1c655-7ea9-404a-8cfe-3edb9b8e91d8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=286b0cfa16038cc8daea5fda42fe6cec4960707a3788e05e
+[NotebookApp | INFO]  or http://127.0.0.1:8889/?token=286b0cfa16038cc8daea5fda42fe6cec4960707a3788e05e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/felixneubuerger/.local/share/jupyter/runtime/nbserver-32179-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=286b0cfa16038cc8daea5fda42fe6cec4960707a3788e05e
+     or http://127.0.0.1:8889/?token=286b0cfa16038cc8daea5fda42fe6cec4960707a3788e05e
+[NotebookApp | INFO] Kernel started: ec7af255-c098-4218-8047-842322103b41
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Starting buffering for ec7af255-c098-4218-8047-842322103b41:8a914b31d7df4dceb7e22fd7635c8de3
+[NotebookApp | INFO] Kernel restarted: ec7af255-c098-4218-8047-842322103b41
+[NotebookApp | INFO] Restoring connection for ec7af255-c098-4218-8047-842322103b41:8a914b31d7df4dceb7e22fd7635c8de3
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Starting buffering for ec7af255-c098-4218-8047-842322103b41:8a914b31d7df4dceb7e22fd7635c8de3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/felixneubuerger/Dokumente/introduction_to_python
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c40e2a78a1de2b51d51b2e125533043b1e37e2ad4c29adfc
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=c40e2a78a1de2b51d51b2e125533043b1e37e2ad4c29adfc
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/felixneubuerger/.local/share/jupyter/runtime/nbserver-13405-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c40e2a78a1de2b51d51b2e125533043b1e37e2ad4c29adfc
+     or http://127.0.0.1:8888/?token=c40e2a78a1de2b51d51b2e125533043b1e37e2ad4c29adfc
+[NotebookApp | INFO] Kernel started: b66a081d-c450-4a47-b7e8-12e3cece11bd
+[NotebookApp | WARNING] Notebook 03-scientific python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8bc63785-305c-4060-81e3-1da120569240
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Starting buffering for b66a081d-c450-4a47-b7e8-12e3cece11bd:7ef46b2677f248faa4b026274e3bc98c
+[NotebookApp | INFO] Kernel restarted: b66a081d-c450-4a47-b7e8-12e3cece11bd
+[NotebookApp | INFO] Restoring connection for b66a081d-c450-4a47-b7e8-12e3cece11bd:7ef46b2677f248faa4b026274e3bc98c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
