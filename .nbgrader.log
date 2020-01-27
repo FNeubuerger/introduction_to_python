@@ -1343,3 +1343,81 @@
 [NotebookApp | INFO] Saving file at /11-numpy.ipynb
 [NotebookApp | INFO] Saving file at /11-numpy.ipynb
 [NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | WARNING] Notebook 01_intro/01-A_basic_python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6d28e993-2ceb-4d0a-9e76-6640d4b3642a
+[NotebookApp | INFO] Saving file at /01_intro/01-A_basic_python.ipynb
+[NotebookApp | INFO] Starting buffering for 6d28e993-2ceb-4d0a-9e76-6640d4b3642a:e2db1ab201dc475d96472185a133ac98
+[NotebookApp | INFO] Starting buffering for b66a081d-c450-4a47-b7e8-12e3cece11bd:7ef46b2677f248faa4b026274e3bc98c
+[NotebookApp | INFO] Starting buffering for 8bc63785-305c-4060-81e3-1da120569240:09331d8624ca4ec7a394057410812407
+[NotebookApp | WARNING] Notebook 01_intro/01-B_control_flow.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 56ba9eb7-1a4d-46c9-836b-c1087aec17db
+[NotebookApp | INFO] Saving file at /01_intro/01-B_control_flow.ipynb
+[NotebookApp | INFO] Starting buffering for 56ba9eb7-1a4d-46c9-836b-c1087aec17db:d92d5a88e74047899f97bd80f5d4d3af
+[NotebookApp | WARNING] Notebook 02_functions/02-functions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e2eac77c-a251-4114-afe1-5ae432d2148a
+[NotebookApp | INFO] Saving file at /02_functions/02-functions.ipynb
+[NotebookApp | INFO] Starting buffering for e2eac77c-a251-4114-afe1-5ae432d2148a:de37f7ce35894dd38b14303fbb9a8496
+[NotebookApp | WARNING] Notebook 05_pandas/01_intro_pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 46162cfd-8ad4-497a-a847-7d4f9169f0f3
+[NotebookApp | INFO] Saving file at /05_pandas/01_intro_pandas.ipynb
+[NotebookApp | INFO] Saving file at /05_pandas/01_intro_pandas.ipynb
+[NotebookApp | WARNING] Notebook 05_pandas/02_pandas_basics.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a0e0b636-c5c2-4d0a-9ed7-ffe598d41038
+[NotebookApp | INFO] Starting buffering for a0e0b636-c5c2-4d0a-9ed7-ffe598d41038:c9bd7013998e4161b55b4772b4a4c324
+[NotebookApp | INFO] Kernel restarted: a0e0b636-c5c2-4d0a-9ed7-ffe598d41038
+[NotebookApp | INFO] Restoring connection for a0e0b636-c5c2-4d0a-9ed7-ffe598d41038:c9bd7013998e4161b55b4772b4a4c324
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /05_pandas/02_pandas_basics.ipynb
+[NotebookApp | INFO] Starting buffering for a0e0b636-c5c2-4d0a-9ed7-ffe598d41038:c9bd7013998e4161b55b4772b4a4c324
+[NotebookApp | WARNING] Notebook 05_pandas/03_data_wrangling.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: db4f0458-0194-40b6-89ac-2f99d4f6de8f
+[NotebookApp | INFO] Starting buffering for db4f0458-0194-40b6-89ac-2f99d4f6de8f:ebb45d8eb39a4fefbd351173ec3db3c7
+[NotebookApp | INFO] Kernel started: 62bd2209-ad6b-4657-8af0-907c07d27c4a
+[NotebookApp | INFO] Saving file at /06-Complex packages and testing.ipynb
+[NotebookApp | INFO] Starting buffering for 62bd2209-ad6b-4657-8af0-907c07d27c4a:aea1f7a0a5b94caba59c4af869624059
+[NotebookApp | INFO] Saving file at /11-numpy.ipynb
+[NotebookApp | INFO] Kernel started: 26d785c7-019e-4b21-91b7-d7f3117dc471
+[NotebookApp | INFO] Saving file at /05-Python Modules.ipynb
+[NotebookApp | INFO] Kernel started: 3fbcae74-e38d-4330-9ec7-ce047dfaf5f2
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 845ac74d-5166-40ec-961b-2632b87f83fb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
+[NotebookApp | INFO] Starting buffering for 3fbcae74-e38d-4330-9ec7-ce047dfaf5f2:81c5571102e440398def65bfcf7eceda
+[NotebookApp | INFO] Starting buffering for 26d785c7-019e-4b21-91b7-d7f3117dc471:d47aebbd6aea4af980683757be22f389
+[NotebookApp | INFO] Starting buffering for 46162cfd-8ad4-497a-a847-7d4f9169f0f3:f89dc706a71b494a981011fa3c885794
+[NotebookApp | INFO] Saving file at /Object Oriented Programming Linear Least Squares.ipynb
