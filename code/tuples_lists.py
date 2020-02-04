@@ -8,11 +8,11 @@ t3 = (10, 'name', 2.0)
 
 print(t3[2])
 
-print('id of t2' + str(id(t2)))
+print('id of t2: ' + str(id(t2)))
 
 t2 += ('c', 'd')
 
-print('id of t2' + str(id(t2)))
+print('id of t2: ' + str(id(t2)))
 
 print('slicing a tuple: ' + str(t2[2:3]))
 
@@ -96,7 +96,7 @@ print (words)
 moreWords = words
 moreWords.insert(1, 'more')
 
-print (words)
+print ('some words appear : ' + str(words))
 
 
 # nested lists
