@@ -23,11 +23,11 @@ print(s4 is s4)
 a = [1,2,3,4,5]
 b = a
 print('b is a? ' + str(b is a))
-print('b is a? ' + str(b == a))
+print('b == a? ' + str(b == a))
 
 b = a[:]
 print('b is a? ' + str(b is a))
-print('b is a? ' + str(b == a))
+print('b == a? ' + str(b == a))
 
 #Python caches small integer and string objects, therefore is sometimes holds true for small values
 #cf. slides
@@ -50,11 +50,13 @@ print ( 'The data file is ' + str(5) + ' MB large')
 
 
 print ( '\nresult of intern experiment:')
+# intern stores string "internally" and returns the same object for the same string
 stringA = sys.intern('myString'*1000)
 stringB = sys.intern('myString'*1000)
 
 print(stringA is stringB)
 
+# without intern, two different objects are created, even if they have the same underlying value
 stringC = 'myNewString'*1000
 stringD = 'myNewString'*1000
 
